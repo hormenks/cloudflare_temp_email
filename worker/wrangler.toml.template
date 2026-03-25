@@ -1,4 +1,4 @@
-# 触发 Cloudflare 构建 - 2026.3.24
+# 触发 Cloudflare - 2026.3.24
 name = "cloudflare_temp_email"
 main = "src/worker.ts"
 compatibility_date = "2025-04-01"
